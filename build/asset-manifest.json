@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7710bbfd.css",
-    "main.js": "/static/js/main.07bda291.js",
+    "main.js": "/static/js/main.536cb419.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/project-management-tool.png": "/static/media/project-management-tool.3484447d53e37167b215.png",
@@ -16,12 +16,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.7710bbfd.css.map": "/static/css/main.7710bbfd.css.map",
-    "main.07bda291.js.map": "/static/js/main.07bda291.js.map",
+    "main.536cb419.js.map": "/static/js/main.536cb419.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7710bbfd.css",
-    "static/js/main.07bda291.js"
+    "static/js/main.536cb419.js"
   ]
 }
