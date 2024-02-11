@@ -38,7 +38,7 @@ function Projects() {
               isBlog={false}
               title="Project Management"
               description="The aim of this project is to develop a web-based project management tool that can help users manage their projects from start to finish. The tool will provide features such as task management, collaboration, time tracking, budgeting, reporting, and more. The tool will be user-friendly, secure, and scalable."
-              ghLink="https://github.com/ReactRocket/Project-Management"
+              ghLink="https://github.com/ReactRocket/Internship-Projects"
             // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
